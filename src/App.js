@@ -76,6 +76,7 @@ function App() {
     setDisplayTime(25 * 60);
     setBreakTime(5 * 60);
     setSessionTime(25 * 60);
+    setOnBreak(false);
   }
 
 
